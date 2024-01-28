@@ -7,4 +7,5 @@ Calculate Average Percentage: Divide the total marks by the total number of subj
 average percentage.
 <br>
 Grade Calculation: Assign grades based on the average percentage achieved.
+<br>
 Display Results: Show the total marks, average percentage, and the corresponding grade to the user.
